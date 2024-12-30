@@ -1,0 +1,47 @@
+[
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Calendar.csv",
+  "p2_folder": "AdventureWorks_Calendar" ,
+  "p3_file": "AdventureWorks_Calendar.csv"
+},
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Product_Categories.csv",
+  "p2_folder": "AdventureWorks_Product_Categories" ,
+  "p3_file": "AdventureWorks_Product_Categories.csv"
+},
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Customers.csv",
+  "p2_folder": "AdventureWorks_Customers" ,
+  "p3_file": "AdventureWorks_Customers.csv"
+},
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+  "p2_folder": "AdventureWorks_Product_Subcategories" ,
+  "p3_file": "AdventureWorks_Product_Subcategories.csv"
+},
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Returns.csv",
+  "p2_folder": "AdventureWorks_Returns" ,
+  "p3_file": "AdventureWorks_Returns.csv"
+},
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Sales_2015.csv",
+  "p2_folder": "AdventureWorks_Sales_2015" ,
+  "p3_file": "AdventureWorks_Sales_2015.csv"
+},
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Sales_2016.csv",
+  "p2_folder": "AdventureWorks_Sales_2016" ,
+  "p3_file": "AdventureWorks_Sales_2016.csv"
+},
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Sales_2017.csv",
+  "p2_folder": "AdventureWorks_Sales_2017" ,
+  "p3_file": "AdventureWorks_Sales_2017.csv"
+},
+{
+  "p1_relative_url": "AtulGawade12/ProjectAdventureWorks/refs/heads/main/AdventureWorks_Territories.csv",
+  "p2_folder": "AdventureWorks_Territories" ,
+  "p3_file": "AdventureWorks_Territories.csv"
+}
+]
